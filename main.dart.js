@@ -30425,7 +30425,8 @@ return P.V($async$l5,r)},
 D2:function(){this.gmc().nq(new F.VP(this))},
 CP:function(a){var s,r,q,p
 for(s=a.length,r=0,q="";r<s;++r){p=a[r]
-q=q+p.a+"\n"+p.b+"\n\n"}return q.charCodeAt(0)==0?q:q},
+q=q+p.a+"\n"+p.b+"\n\n"}s=s===0?q+"length is 0":q
+return s.charCodeAt(0)==0?s:s},
 qN:function(){return this.Ny()},
 Ny:function(){var s=0,r=P.W(t.z),q=this,p,o
 var $async$qN=P.Q(function(a,b){if(a===1)return P.T(b,r)
@@ -30447,7 +30448,7 @@ $1:function(a){if(a.length>0)this.a.gmc().dO()
 return this.a.CP(a)},
 $S:76}
 F.VN.prototype={
-$0:function(){this.b.e=this.a.a},
+$0:function(){this.b.e="returned result is:"+this.a.a},
 $S:0}
 X.cW.prototype={
 i:function(a){return this.b}}
