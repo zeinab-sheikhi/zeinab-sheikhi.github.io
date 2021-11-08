@@ -32335,7 +32335,7 @@ b.a8(s).toString
 b.a8(s).toString
 s=this.JR(0)
 return new M.rk(Q.ajR(!0,s,!0),C.tA,null)},
-JR:function(a){var s=null,r=$.aca,q=$.a6q,p=U.a8B("assets/images/splashScreen.png",s,C.ik,q,r),o=U.a8B("assets/images/transparent-logo.png",C.m,s,s,r/2),n=L.ako("\u0628\u0627\u0646\u06a9\u062f\u0627\u0631\u06cc \u062f\u06cc\u062c\u06cc\u062a\u0627\u0644",A.ni(s,s,C.m,s,s,s,s,s,s,s,s,25,s,C.bS,s,s,!0,s,s,s,s,s,s,s),s,s),m=$.a6q,l=T.a7Y(C.AQ,C.hb),k=M.oQ(s,s,s,s,s,s,s,s,s),j=t.nA
+JR:function(a){var s=null,r=$.aca,q=$.a6q,p=U.a8B("assets/images/backTem.png",s,C.ik,q,r),o=U.a8B("assets/images/arrow.png",C.m,s,s,r/2),n=L.ako("global.fdg;",A.ni(s,s,C.m,s,s,s,s,s,s,s,s,25,s,C.bS,s,s,!0,s,s,s,s,s,s,s),s,s),m=$.a6q,l=T.a7Y(C.AQ,C.hb),k=M.oQ(s,s,s,s,s,s,s,s,s),j=t.nA
 return T.Et(C.dj,H.a([p,M.oQ(s,T.a7Y(H.a([new T.hn(new V.bn(0,q/4,0,0),o,s),new T.hn(new V.bn(0,q/80,0,0),n,s),new T.hn(new V.bn(0,m/4.5,0,0),new U.oI(s,s,s,new S.og(C.m,t.be),s,s,s),s),new T.z9(1,C.fA,l,s),k,R.a8D(!1,!0,M.oQ(s,s,C.hd,s,s,50,s,s,100),s,!0,s,s,s,s,s,s,s,s,s,new G.a13(),s)],j),C.hb),s,s,s,q,s,s,r)],j),C.d9)}}
 G.a13.prototype={
 $0:function(){$.jr().iU("heyBaby",["ss"])},
